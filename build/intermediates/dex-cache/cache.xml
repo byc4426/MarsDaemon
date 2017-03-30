@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\surui29\.android\build-cache\18b3badbb203e29be5df270ed84676449e667e52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Temp\MarsDaemon-master\DemoMarsdaemon\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c96c267eb792f423d7f34a2c03d2b8a7ad560783\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\surui29\.android\build-cache\be7d8448d6c5bc078062eb7e4777b3e0c9013616\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\Temp\MarsDaemon-master\DemoMarsdaemon\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b11de9f5df579963dc7d507e3f8c57757955ba4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Temp\MarsDaemon-master\DemoMarsdaemon\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\Temp\MarsDaemon-master\DemoMarsdaemon\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_727e432303b72e46c34e040a0ac4ed25d42e88ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\surui29\.android\build-cache\18b3badbb203e29be5df270ed84676449e667e52\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Temp\MarsDaemon-master\DemoMarsdaemon\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_5cb1219d56dbd2bf698513c9d2af9e35535a0dc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\AS_SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Temp\MarsDaemon-master\DemoMarsdaemon\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_434b6d961e022152505e08b8317695a8cbb7e0d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\surui29\.android\build-cache\7a5491c8653a1628657108bc339bdee8a95bfdf2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\Temp\MarsDaemon-master\DemoMarsdaemon\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c59d66db5841b85c56ccc2ad6a85652233ab3eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\surui29\.android\build-cache\630b6dda8ed762e08dca3ae13202fbf02e67b373\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\Temp\MarsDaemon-master\DemoMarsdaemon\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bae9264ec219c0dfbfd97c5c7d3224dff652d61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Temp\MarsDaemon-master\DemoMarsdaemon\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4bdc0c144b22ed63c5ccd2c2a51933995b7100f0">
+        <dex dex="F:\Temp\MarsDaemon-master\DemoMarsdaemon\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1434e05ae343f3054006b473f6fcfbd7b8d0c1f0\classes.dex" />
+    </item>
+
+</items>
